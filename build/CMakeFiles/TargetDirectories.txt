@@ -1,0 +1,3 @@
+/home/harian/PROJECT/native/VideoScaler/build/CMakeFiles/rebuild_cache.dir
+/home/harian/PROJECT/native/VideoScaler/build/CMakeFiles/edit_cache.dir
+/home/harian/PROJECT/native/VideoScaler/build/CMakeFiles/VideoScaler.dir

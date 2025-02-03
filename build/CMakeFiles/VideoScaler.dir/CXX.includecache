@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/FrameScaler.hpp
+ScalerUtils.hpp
+../include/ScalerUtils.hpp
+
+../include/ScalerUtils.hpp
+vector
+-
+cstdint
+-
+
+/home/harian/PROJECT/native/VideoScaler/src/FrameScaler.cpp
+FrameScaler.hpp
+/home/harian/PROJECT/native/VideoScaler/src/FrameScaler.hpp
+iostream
+-
+algorithm
+-
+cmath
+-
+vector
+-
+immintrin.h
+-
+
